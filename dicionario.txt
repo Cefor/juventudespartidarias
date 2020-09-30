@@ -1,0 +1,1111 @@
+File:         /home/www-pspp/input/d9c1d353cfb8e645ccfbaa6904c627e7.sav
+Label:        No label.
+Created:      01 Mar 18 11:52:17 by @(#) IBM SPSS STATISTICS DATA FILE MS
+              Windows 20.0.0
+Integer       Little Endian
+Format:
+Real Format:  IEEE 754 LE.
+Variables:    60
+Cases:        422
+Type:         SPSS System File
+Weight:       ponderacao
+Compression:  SAV
+Encoding:     windows-1252
+
+Variables
+Name                            Position Label          Measurement Role
+                                                        Level
+═════════════════════════════════════════════════════════════════════════
+filiacao                        1        Como se deu a  Nominal     Input
+                                         sua filiação
+                                         partidária?
+familiares                      2        Você tem       Nominal     Input
+                                         familiares que
+                                         atuam na
+                                         política
+                                         partidária?
+familiares_quais                3        Indique quais  Nominal     Input
+                                         os seus
+                                         familiares que
+                                         atuam na
+                                         política
+                                         partidária.
+motivacao                       4        O que mais     Nominal     Input
+                                         motivou você a
+                                         participar da
+                                         militância do
+                                         seu partido?
+tempo_existencia                5        Quanto ao      Nominal     Input
+                                         tempo de
+                                         existência do
+                                         partido, o que
+                                         mais pesou na
+                                         sua escolha?
+peso_escolha                    6        O que teve     Nominal     Input
+                                         mais peso na
+                                         escolha do
+                                         partido quanto
+                                         ao
+                                         posicionamento
+                                         ideológico?
+qualidade_programa              7        A qualidade do Ordinal     Input
+                                         programa do
+                                         partido.
+qualidade_lideres_nacionais     8        A qualidade    Ordinal     Input
+                                         dos líderes
+                                         nacionais do
+                                         partido.
+qualidade_lideres_regionais     9        A qualidade    Ordinal     Input
+                                         dos líderes
+                                         regionais e
+                                         locais.
+bancadas_congresso              10       As bancadas do Ordinal     Input
+                                         partido no
+                                         Congresso
+                                         Nacional.
+
+Name                            Position Label          Measurement Role
+                                                        Level
+═════════════════════════════════════════════════════════════════════════
+bancadas_estaduais_municipais   11       As bancadas    Ordinal     Input
+                                         estaduais e
+                                         municipais.
+agenda_partido                  12       A agenda do    Ordinal     Input
+                                         partido.
+agricultura_pecuária            13       Agricultura e  Ordinal     Input
+                                         pecuária.
+educação                        14       Educação.      Ordinal     Input
+esportes_lazer                  15       Esportes e     Ordinal     Input
+                                         lazer.
+infraestrutura_urbana           16       Infraestrutura Ordinal     Input
+                                         urbana.
+saude                           17       Saúde.         Ordinal     Input
+trabalho_emprego                18       Trabalho e     Ordinal     Input
+                                         emprego.
+transportes_publicos            19       Transportes    Ordinal     Input
+                                         públicos.
+artes_cultura                   20       Artes e        Ordinal     Input
+                                         cultura.
+ciencia_tecnologia_inovacao     21       Ciência,       Ordinal     Input
+                                         tecnologia e
+                                         inovação.
+combate_homofobia               22       Combate à      Ordinal     Input
+                                         homofobia.
+combate_racismo                 23       Combate ao     Ordinal     Input
+                                         racismo.
+igualdade_genero                24       Igualdade      Ordinal     Input
+                                         entre homens e
+                                         mulheres.
+meio_ambiente                   25       Meio ambiente. Ordinal     Input
+representacao_mulheres_política 26       Representação  Ordinal     Input
+                                         das mulheres
+                                         na política.
+atividades_partido              27       De que         Nominal     Input
+                                         atividades do
+                                         partido você
+                                         participa ou
+                                         já participou?
+atividades_formacao_politica    28       Que atividades Nominal     Input
+                                         de formação
+                                         política
+                                         oferecidas
+                                         pelo partido
+                                         você participa
+                                         ou já
+                                         participou?
+atuacao_campanhas_eleitorais    29       Você teve      Nominal     Input
+                                         alguma atuação
+                                         em campanhas
+                                         eleitorais a
+                                         favor de seu
+                                         partido nas
+                                         eleições
+                                         recentes?
+                                         (últimos 5
+                                         anos)
+atuacao_campanhas_filiacao      30       Você já atuou  Nominal     Input
+                                         nas campanhas
+                                         de filiação de
+                                         jovens para o
+                                         partido?
+
+Name                            Position Label          Measurement Role
+                                                        Level
+═════════════════════════════════════════════════════════════════════════
+cargos_administracao            31       Você pretende  Nominal     Input
+                                         ocupar cargos
+                                         na
+                                         administração
+                                         do seu
+                                         partido?
+concorrer_eleicao               32       Você tem       Nominal     Input
+                                         planos de
+                                         concorrer a
+                                         eleições pelo
+                                         seu partido?
+cargos_pretende_concorrer       33       Indique a que  Nominal     Input
+                                         cargos você
+                                         pretende
+                                         concorrer.
+experiencia_importante          34       Até o momento, Nominal     Input
+                                         o que foi mais
+                                         importante na
+                                         sua
+                                         experiência de
+                                         filiado para
+                                         sua formação
+                                         política?
+experiencia_comentario          35       Comente sua    Nominal     Input
+                                         experiência
+                                         como filiado a
+                                         um partido
+                                         político.
+idade                           36       Idade          Nominal     Input
+renda_familiar_mensal           37       Renda familiar Nominal     Input
+                                         mensal
+escolaridade                    38       Escolaridade   Nominal     Input
+area_formacao                   39       Área de        Nominal     Input
+                                         formação (para
+                                         Superior
+                                         graduação)
+religiao                        40       Religião       Nominal     Input
+situacao_ocupacional            41       Situação       Nominal     Input
+                                         ocupacional
+setor_ocupacao                  42       Setor de       Nominal     Input
+                                         ocupação
+cor_raca                        43       Cor/raça       Nominal     Input
+local_residencia                44       Local de       Nominal     Input
+                                         residência
+regiao_residencia               45       Região de      Nominal     Input
+                                         residência
+partido                         46       Partido        Nominal     Input
+espectro                        47       Espectro       Ordinal     Input
+materialista                    48       Agenda         Scale       Input
+                                         materialista
+pos_materialista                49       Agenda pós-    Scale       Input
+                                         materialista
+agenda                          50       Agenda         Nominal     Input
+filiacao_familiar               51       Influência de  Nominal     Input
+                                         familiares na
+                                         filiação
+filiacao_estudantil             52       Influência de  Nominal     Input
+                                         movimentos
+                                         estudantis na
+                                         filiação
+
+Name                            Position Label          Measurement Role
+                                                        Level
+═════════════════════════════════════════════════════════════════════════
+filiacao_social                 53       Influência de  Nominal     Input
+                                         movimentos
+                                         sociais na
+                                         filiação
+interior                        54       Residentes em  Nominal     Input
+                                         cidades do
+                                         interior
+metropolitana                   55       Residentes em  Nominal     Input
+                                         regiões
+                                         metropolitanas
+capital                         56       Residentes nas Nominal     Input
+                                         capitais
+influencia_filiacao             57       Fatores de     Nominal     Input
+                                         influência na
+                                         filiação
+                                         partidária
+espectro_binario                58       Espectro       Nominal     Input
+                                         (Direita ou
+                                         Esquerda)
+sexo                            59       Sexo           Nominal     Input
+ponderacao                      60       Ponderação     Scale       Input
+                                         amostral
+
+Width Alignment Print  Write  Missing
+                Format Format Values
+═════════════════════════════════════
+   50 Right     F1.0   F1.0
+
+   13 Right     F1.0   F1.0   1
+
+   19 Right     F1.0   F1.0   1
+
+   30 Right     F2.0   F2.0
+
+   19 Right     F1.0   F1.0
+
+   11 Right     F1.0   F1.0
+
+   12 Right     F1.0   F1.0
+
+Width Alignment Print  Write  Missing
+                Format Format Values
+═════════════════════════════════════
+   12 Right     F1.0   F1.0
+
+   12 Right     F1.0   F1.0
+
+   12 Right     F1.0   F1.0
+
+   12 Right     F1.0   F1.0
+
+   12 Right     F1.0   F1.0
+
+   12 Right     F1.0   F1.0
+
+   12 Right     F1.0   F1.0
+   12 Right     F1.0   F1.0
+
+   16 Right     F1.0   F1.0
+
+   12 Right     F1.0   F1.0
+   12 Right     F1.0   F1.0
+
+   12 Right     F1.0   F1.0
+
+   12 Right     F1.0   F1.0
+
+   12 Right     F1.0   F1.0
+
+   12 Right     F1.0   F1.0
+
+   12 Right     F1.0   F1.0
+
+   12 Right     F1.0   F1.0
+
+   12 Right     F1.0   F1.0
+   12 Right     F1.0   F1.0
+
+   21 Right     F2.0   F2.0
+
+   31 Right     F2.0   F2.0
+
+Width Alignment Print  Write  Missing
+                Format Format Values
+═════════════════════════════════════
+   31 Right     F1.0   F1.0
+
+   29 Right     F1.0   F1.0
+
+   23 Right     F1.0   F1.0
+
+   20 Right     F1.0   F1.0
+
+   28 Right     F2.0   F2.0   1
+
+   25 Right     F1.0   F1.0   1
+
+   25 Right     F3.0   F3.0   1
+
+    8 Right     F1.0   F1.0
+   24 Right     F1.0   F1.0   1
+
+   15 Right     F1.0   F1.0
+   16 Right     F1.0   F1.0   1
+
+   11 Right     F1.0   F1.0   1
+   23 Right     F1.0   F1.0
+
+   17 Right     F1.0   F1.0   1
+
+   11 Right     F1.0   F1.0
+   25 Right     F1.0   F1.0
+
+   20 Right     F1.0   F1.0
+
+   10 Right     F2.0   F2.0   1
+   23 Right     F2.0   F2.0   0
+
+Width Alignment Print  Write  Missing
+                Format Format Values
+═════════════════════════════════════
+    8 Right     F8.2   F8.2
+
+   11 Right     F8.2   F8.2
+
+    8 Right     F1.0   F1.0
+   14 Right     F1.0   F1.0
+
+   30 Right     F1.0   F1.0
+
+   25 Right     F1.0   F1.0
+
+    8 Right     F1.0   F1.0
+
+    8 Right     F1.0   F1.0
+
+    8 Right     F1.0   F1.0
+
+   15 Right     F1.0   F1.0
+
+   12 Right     F1.0   F1.0   0
+
+    7 Right     F1.0   F1.0
+    8 Right     F8.4   F8.4
+
+Value Labels
+Variable                     Value Label
+═══════════════════════════════════════════════════════════════════════════════
+filiacao                         1 Eu fui convidado pelos dirigentes do partido
+                                 2 Eu fui convidado por colegas de movimentos
+                                   estudantis filiados ao partido
+                                 3 Eu fui convidado por colegas de movimentos
+                                   sociais ligados ao partido
+                                 4 Eu fui convidado por colegas já filiados ao
+                                   partido
+                                 5 Eu fui incentivado por meus familiares a me
+                                   filiar ao partido
+                                 6 Eu tomei a iniciativa e procurei o partido
+familiares                    1[a] SR
+                                 2 Não
+                                 3 Sim
+familiares_quais              1[a] SR
+                                 2 Meus irmãos
+                                 3 Meus pais
+                                 4 Meus tios/avós
+                                 5 Outros
+motivacao                        1 Meu envolvimento com a igreja
+                                 2 Meu envolvimento com entidades patronais e
+                                   representantes da indústria, comércio e
+                                   serviços
+                                 3 Meu envolvimento com entidades patronais e
+                                   representantes da indústria, comércio e
+                                   serviços, Meu envolvimento com a igre
+
+Variable                     Value Label
+═══════════════════════════════════════════════════════════════════════════════
+                                 4 Meu envolvimento com movimentos estudantis
+                                 5 Meu envolvimento com movimentos estudantis,
+                                   Meu envolvimento com projetos de ONGs
+                                 6 Meu envolvimento com movimentos estudantis,
+                                   Meu envolvimento com projetos de ONGs, Meu
+                                   envolvimento em trabalho voluntár
+                                 7 Meu envolvimento com movimentos estudantis,
+                                   Meu envolvimento com sindicatos
+                                 8 Meu envolvimento com movimentos estudantis,
+                                   Meu envolvimento em trabalho voluntário
+                                 9 Meu envolvimento com movimentos sociais
+                                10 Meu envolvimento com movimentos sociais, Meu
+                                   envolvimento com movimentos estudantis
+                                11 Meu envolvimento com movimentos sociais, Meu
+                                   envolvimento com movimentos estudantis, Meu
+                                   envolvimento com projetos de ON
+                                12 Meu envolvimento com movimentos sociais, Meu
+                                   envolvimento com movimentos estudantis, Meu
+                                   envolvimento em trabalho volunt
+                                13 Meu envolvimento com movimentos sociais, Meu
+                                   envolvimento com projetos de ONGs
+                                14 Meu envolvimento com movimentos sociais, Meu
+                                   envolvimento com sindicatos
+                                15 Meu envolvimento com movimentos sociais, Meu
+                                   envolvimento em trabalho voluntário
+                                16 Meu envolvimento com projetos de ONGs
+                                17 Meu envolvimento com projetos de ONGs, Meu
+                                   envolvimento em trabalho voluntário
+                                18 Meu envolvimento com projetos de ONGs, Meu
+                                   envolvimento em trabalho voluntário, Meu
+                                   envolvimento com sindicatos
+                                19 Meu envolvimento com sindicatos
+                                20 Meu envolvimento em trabalho voluntário
+                                21 Meu envolvimento em trabalho voluntário, Meu
+                                   envolvimento com sindicatos
+                                22 O engajamento político de meus familiares,
+                                   amigos e pessoas próximas
+                                23 O engajamento político de meus familiares,
+                                   amigos e pessoas próximas, Meu envolvimento
+                                   com entidades patronais e represe
+                                24 O engajamento político de meus familiares,
+                                   amigos e pessoas próximas, Meu envolvimento
+                                   com movimentos estudantis
+                                25 O engajamento político de meus familiares,
+                                   amigos e pessoas próximas, Meu envolvimento
+                                   com movimentos sociais, Meu envol
+tempo_existencia                 1 O fato de ser um partido com longa atuação
+                                   na política
+                                 2 O fato de ser um partido novo
+                                 3 O tempo de atuação do partido não foi
+                                   determinante
+peso_escolha                     1 O fato de ser um partido com um claro
+                                   posicionamento de centro
+                                 2 O fato de ser um partido com um claro
+                                   posicionamento de direita
+                                 3 O fato de ser um partido com um claro
+                                   posicionamento de esquerda
+atividades_partido               1 Cursos online de formação política
+                                 2 Cursos online de formação política,
+                                   Militância de rua, Militância nas redes
+                                   sociais
+                                 3 Cursos online de formação política,
+                                   Militância nas redes sociais
+
+Variable                     Value Label
+═══════════════════════════════════════════════════════════════════════════════
+                                 4 Cursos online de formação política, Reuniões
+                                   do diretório jovem
+                                 5 Cursos online de formação política, Reuniões
+                                   do diretório jovem, Militância de rua,
+                                   Militância nas redes sociais
+                                 6 Cursos online de formação política, Reuniões
+                                   do diretório jovem, Militância nas redes
+                                   sociais
+                                 7 Cursos online de formação política, Reuniões
+                                   do diretório jovem, Reuniões municipais
+                                 8 Cursos online de formação política, Reuniões
+                                   do diretório jovem, Reuniões municipais,
+                                   Militância de rua, Militância nas
+                                 9 Cursos online de formação política, Reuniões
+                                   do diretório jovem, Reuniões municipais,
+                                   Militância nas redes sociais
+                                10 Cursos online de formação política, Reuniões
+                                   do diretório jovem, Reuniões municipais,
+                                   Reuniões estaduais
+                                11 Cursos online de formação política, Reuniões
+                                   do diretório jovem, Reuniões municipais,
+                                   Reuniões estaduais, Militância de
+                                12 Cursos online de formação política, Reuniões
+                                   do diretório jovem, Reuniões municipais,
+                                   Reuniões estaduais, Militância nas
+                                13 Cursos online de formação política, Reuniões
+                                   do diretório jovem, Reuniões municipais,
+                                   Reuniões estaduais, Reuniões nacio
+                                14 Cursos online de formação política, Reuniões
+                                   do diretório jovem, Reuniões municipais,
+                                   Reuniões estaduais, Reuniões nacio
+                                15 Cursos online de formação política, Reuniões
+                                   do diretório jovem, Reuniões municipais,
+                                   Reuniões estaduais, Reuniões nacio
+                                16 Cursos online de formação política, Reuniões
+                                   do diretório jovem, Reuniões nacionais,
+                                   Militância de rua, Militância nas r
+                                17 Cursos online de formação política, Reuniões
+                                   estaduais, Reuniões nacionais, Militância
+                                   nas redes sociais
+                                18 Cursos online de formação política, Reuniões
+                                   municipais
+                                19 Cursos online de formação política, Reuniões
+                                   municipais, Militância nas redes sociais
+                                20 Cursos online de formação política, Reuniões
+                                   nacionais, Militância de rua, Militância nas
+                                   redes sociais
+                                21 Cursos presenciais de formação política,
+                                   Cursos online de formação política
+                                22 Cursos presenciais de formação política,
+                                   Cursos online de formação política,
+                                   Militância de rua, Militância nas redes soc
+                                23 Cursos presenciais de formação política,
+                                   Cursos online de formação política,
+                                   Militância nas redes sociais
+                                24 Cursos presenciais de formação política,
+                                   Cursos online de formação política, Reuniões
+                                   do diretório jovem
+                                25 Cursos presenciais de formação política,
+                                   Cursos online de formação política, Reuniões
+                                   do diretório jovem, Militância de
+                                26 Cursos presenciais de formação política,
+                                   Cursos online de formação política, Reuniões
+                                   do diretório jovem, Militância nas
+
+Variable                     Value Label
+═══════════════════════════════════════════════════════════════════════════════
+                                27 Cursos presenciais de formação política,
+                                   Cursos online de formação política, Reuniões
+                                   do diretório jovem, Reuniões munic
+                                28 Cursos presenciais de formação política,
+                                   Cursos online de formação política, Reuniões
+                                   do diretório jovem, Reuniões munic
+                                29 Cursos presenciais de formação política,
+                                   Cursos online de formação política, Reuniões
+                                   do diretório jovem, Reuniões munic
+                                30 Cursos presenciais de formação política,
+                                   Cursos online de formação política, Reuniões
+                                   do diretório jovem, Reuniões nacio
+                                31 Cursos presenciais de formação política,
+                                   Cursos online de formação política, Reuniões
+                                   nacionais, Militância de rua
+                                32 Cursos presenciais de formação política,
+                                   Cursos online de formação política, Reuniões
+                                   nacionais, Militância de rua, Mili
+                                33 Cursos presenciais de formação política,
+                                   Reuniões do diretório jovem, Reuniões
+                                   municipais, Militância nas redes sociais
+                                34 Cursos presenciais de formação política,
+                                   Reuniões municipais, Militância nas redes
+                                   sociais
+                                35 Militância de rua
+                                36 Militância de rua, Militância nas redes
+                                   sociais
+                                37 Militância nas redes sociais
+                                38 Reuniões do diretório jovem
+                                39 Reuniões do diretório jovem, Militância de
+                                   rua, Militância nas redes sociais
+                                40 Reuniões do diretório jovem, Militância nas
+                                   redes sociais
+                                41 Reuniões do diretório jovem, Reuniões
+                                   municipais
+                                42 Reuniões do diretório jovem, Reuniões
+                                   municipais, Reuniões estaduais, Reuniões
+                                   nacionais, Militância de rua, Militância
+                                43 Reuniões do diretório jovem, Reuniões
+                                   municipais, Reuniões estaduais, Reuniões
+                                   nacionais, Militância nas redes sociais
+                                44 Reuniões estaduais, Reuniões nacionais,
+                                   Militância de rua
+                                45 Reuniões estaduais, Reuniões nacionais,
+                                   Militância de rua, Militância nas redes
+                                   sociais
+                                46 Reuniões estaduais, Reuniões nacionais,
+                                   Militância nas redes sociais
+                                47 Reuniões municipais, Militância de rua,
+                                   Militância nas redes sociais
+                                48 Reuniões municipais, Militância nas redes
+                                   sociais
+                                49 Reuniões municipais, Reuniões estaduais,
+                                   Reuniões nacionais
+                                50 Reuniões municipais, Reuniões estaduais,
+                                   Reuniões nacionais, Militância de rua,
+                                   Militância nas redes sociais
+                                51 Reuniões nacionais, Militância de rua,
+                                   Militância nas redes sociais
+atividades_formacao_politica     1 Curso de educação ambiental
+                                 2 Curso de educação para a cidadania
+                                 3 Curso de educação para a cidadania, Curso de
+                                   educação ambiental
+
+Variable                     Value Label
+═══════════════════════════════════════════════════════════════════════════════
+                                 4 Curso de educação para a cidadania, Outros
+                                   cursos
+                                 5 Curso de formação política geral
+                                 6 Curso de formação política geral, Curso de
+                                   educação ambiental
+                                 7 Curso de formação política geral, Curso de
+                                   educação para a cidadania
+                                 8 Curso de formação política geral, Curso de
+                                   história da política
+                                 9 Curso de formação política geral, Curso de
+                                   história da política, Curso de educação
+                                   ambiental
+                                10 Curso de formação política geral, Curso de
+                                   história da política, Curso de educação para
+                                   a cidadania
+                                11 Curso de formação política geral, Curso de
+                                   história da política, Curso de educação para
+                                   a cidadania, Curso de educação a
+                                12 Curso de formação política geral, Curso de
+                                   história da política, Curso sobre políticas
+                                   públicas para jovens
+                                13 Curso de formação política geral, Curso de
+                                   história da política, Curso sobre políticas
+                                   públicas para jovens, Curso de ed
+                                14 Curso de formação política geral, Curso de
+                                   história da política, Curso sobre políticas
+                                   públicas para jovens, Curso sobre
+                                15 Curso de formação política geral, Curso de
+                                   história da política, Curso sobre políticas
+                                   públicas para jovens, Curso sobre
+                                16 Curso de formação política geral, Curso de
+                                   história da política, Curso sobre políticas
+                                   públicas para jovens, Curso sobre
+                                17 Curso de formação política geral, Curso
+                                   sobre participação política juvenil
+                                18 Curso de formação política geral, Curso
+                                   sobre políticas públicas para jovens, Curso
+                                   sobre participação política juvenil
+                                19 Curso de formação política geral, Curso
+                                   sobre políticas públicas para jovens, Curso
+                                   sobre participação política juvenil,
+                                20 Curso de história da política
+                                21 Curso de história da política, Curso de
+                                   educação ambiental
+                                22 Curso de história da política, Curso de
+                                   educação para a cidadania
+                                23 Curso de história da política, Curso sobre
+                                   participação política juvenil
+                                24 Curso de história da política, Curso sobre
+                                   participação política juvenil, Curso de
+                                   educação para a cidadania
+                                25 Curso de história da política, Curso sobre
+                                   políticas públicas para jovens
+                                26 Curso de história da política, Curso sobre
+                                   políticas públicas para jovens, Curso sobre
+                                   participação política juvenil
+                                27 Curso de história da política, Curso sobre
+                                   políticas públicas para jovens, Curso sobre
+                                   participação política juvenil, Cu
+                                28 Curso de história da política, Outros cursos
+                                29 Curso sobre participação política juvenil
+                                30 Curso sobre participação política juvenil,
+                                   Curso de educação para a cidadania
+
+Variable                     Value Label
+═══════════════════════════════════════════════════════════════════════════════
+                                31 Curso sobre participação política juvenil,
+                                   Curso de educação para a cidadania, Curso de
+                                   educação ambiental
+                                32 Curso sobre políticas públicas para jovens
+                                33 Curso sobre políticas públicas para jovens,
+                                   Curso de educação para a cidadania
+                                34 Curso sobre políticas públicas para jovens,
+                                   Curso sobre participação política juvenil
+                                35 Curso sobre políticas públicas para jovens,
+                                   Curso sobre participação política juvenil,
+                                   Curso de educação para a cidadani
+                                36 Outros cursos
+atuacao_campanhas_eleitorais     1 Fiz campanha nas redes sociais
+                                 2 Fiz campanha nas redes sociais, Prestei
+                                   apoio nas atividades de campanha
+                                 3 Fiz campanha nas redes sociais, Trabalhei na
+                                   organização das campanhas
+                                 4 Fiz campanha nas ruas, Fiz campanha nas
+                                   redes sociais
+                                 5 Fiz campanha nas ruas, Fiz campanha nas
+                                   redes sociais, Trabalhei na organização das
+                                   campanhas
+                                 6 Fiz campanha nas ruas, Fiz campanha nas
+                                   redes sociais, Trabalhei na organização das
+                                   campanhas, Prestei apoio nas ativida
+                                 7 Prestei apoio nas atividades de campanha
+atuacao_campanhas_filiacao       1 Fiz campanha nas redes sociais
+                                 2 Fiz campanha nas redes sociais, Prestei
+                                   apoio nas atividades de campanha
+                                 3 Fiz campanha nas redes sociais, Trabalhei na
+                                   organização das campanhas
+                                 4 Fiz campanha nas redes sociais, Trabalhei na
+                                   organização das campanhas, Prestei apoio nas
+                                   atividades de campanha
+                                 5 Fiz campanha nas ruas, Fiz campanha nas
+                                   redes sociais
+                                 6 Fiz campanha nas ruas, Fiz campanha nas
+                                   redes sociais, Prestei apoio nas atividades
+                                   de campanha
+                                 7 Fiz campanha nas ruas, Fiz campanha nas
+                                   redes sociais, Trabalhei na organização das
+                                   campanhas
+                                 8 Fiz campanha nas ruas, Fiz campanha nas
+                                   redes sociais, Trabalhei na organização das
+                                   campanhas, Prestei apoio nas ativida
+                                 9 Prestei apoio nas atividades de campanha
+cargos_administracao             1 Ainda não pensei nessa possibilidade
+                                 2 Não
+                                 3 Sim
+concorrer_eleicao                1 Ainda não pensei nessa possibilidade
+                                 2 Não
+                                 3 Sim
+cargos_pretende_concorrer     1[a] SR
+                                 2 Estou à disposição do meu partido para o
+                                   cargo mais adequado
+                                 3 Vereador
+                                 4 Vereador, Deputado estadual
+                                 5 Vereador, Deputado estadual, Deputado
+                                   federal
+                                 6 Vereador, Estou à disposição do meu partido
+                                   para o cargo mais adequado
+                                 7 Vereador, Prefeito
+                                 8 Vereador, Prefeito, Deputado estadual
+
+Variable                     Value Label
+═══════════════════════════════════════════════════════════════════════════════
+                                 9 Vereador, Prefeito, Deputado estadual,
+                                   Deputado federal
+                                10 Vereador, Prefeito, Deputado estadual,
+                                   Governador
+                                11 Vereador, Prefeito, Deputado estadual,
+                                   Governador, Deputado federal
+                                12 Vereador, Prefeito, Deputado estadual,
+                                   Governador, Deputado federal, Senador
+                                13 Vereador, Prefeito, Deputado estadual,
+                                   Governador, Deputado federal, Senador,
+                                   Presidente da República
+                                14 Vereador, Prefeito, Deputado federal,
+                                   Presidente da República, Estou à disposição
+                                   do meu partido para o cargo mais adequ
+experiencia_importante        1[a] SR
+                                 2 A fase inicial, quando me filiei ao partido
+                                   e conheci outros jovens filiados
+                                   (recrutamento)
+                                 3 A fase inicial, quando me filiei ao partido
+                                   e conheci outros jovens filiados
+                                   (recrutamento), A participação em cursos de
+                                 4 A fase inicial, quando me filiei ao partido
+                                   e conheci outros jovens filiados
+                                   (recrutamento), A participação em cursos de
+                                 5 A fase inicial, quando me filiei ao partido
+                                   e conheci outros jovens filiados
+                                   (recrutamento), Todos tiveram a mesma impor
+                                 6 A participação em cursos de formação
+                                   política oferecidos pelo partido
+                                 7 Todos tiveram a mesma importância
+experiencia_comentario        1[a] SR
+                                 2 A cada dia eu aprendo mais sobre política e
+                                   cidadania
+                                 3 A camaradagem (no bom sentido) é o que o eu
+                                   mais gosto
+                                 4 A convivência com os companheiros de partido
+                                   já é uma experiência de democracia, que se
+                                   renova diariamente
+                                 5 A experiencia me transformou, pois passei a
+                                   entender realmente o que é política
+                                 6 A experiência se tornou mais rica quando
+                                   mudei de partido
+                                 7 A história ainda vai regatar e firmar o
+                                   legado político do PT e do projeto de
+                                   esquerda brasileiro Essa fase de perseguiç
+                                 8 A ideologia do partido me dá alento para
+                                   continuar a luta pelos direitos civis
+                                 9 A juventude da esquerda deste país vai
+                                   retomar os rumos da nação!
+                                10 A mais experiência de vida que eu já tive
+                                11 A solidariedade entre os colegas de partido
+                                   é a parte que mais me cativa
+                                12 Algumas lutas internas são difíceis e me
+                                   fizeram sofrer, mas resultaram em
+                                   amadurecimento pessoal e lição política
+                                13 Ao contrário do que sempre ouvi, aprendi com
+                                   minha experiência que os partidos são a base
+                                   da democracia
+                                14 Aprendi o que nenhuma escola ensina
+                                15 Aprendi o que realmente é a democracia
+                                16 Aprendi o verdadeiro sentido da política
+                                17 Aprendi que um partido político é algo muito
+                                   diferente do que a imprensa insiste em
+                                   denegrir
+
+Variable                     Value Label
+═══════════════════════════════════════════════════════════════════════════════
+                                18 Aprendo a cada dia com meus jovens
+                                   companheiros de partido que a democracia se
+                                   constroi com o nosso esforço diário de lu
+                                19 Aprendo a cada dia mais sobre a complexidade
+                                   da democracia
+                                20 Aprendo a cada dia que temos que defender
+                                   nossos direitos
+                                21 Aprendo muito a cada dia sobre o que
+                                   realmente é política, algo muito diferente
+                                   do que a mídia mostra
+                                22 arretada
+                                23 As atividades do partido me inspiram a
+                                   continuar a luta por uma país melhor
+                                24 Assumir cargos na direção jovem do partido
+                                   ajudou muito no meu amadurecimento  e no meu
+                                   desenvolvimento pessoal
+                                25 bacana
+                                26 Com a militância eu consigo colocar em
+                                   prática meu ideal e meus conhecimentos sobre
+                                   política, colocando-me a serviço da
+                                27 Compartilhar ideal de vida com meus
+                                   companheiros tem sido o mais importante na
+                                   minha experiência
+                                28 construtiva
+                                29 Conviver com gente que entende realmente de
+                                   política tem um valor incomensurável
+                                30 Conviver com os colegas de partido é muito
+                                   instrutivo e gratificante
+                                31 É como se uma cortina tivesse se aberto
+                                   diante dos meus olhos, pois passei a
+                                   enxergar a política com outros olhos
+                                32 É muito bom encontrar outros jovens com os
+                                   mesmos ideiais e sentir que fazemos parte de
+                                   algo maior que nós
+                                33 É um aprendizado sofrido, pois as discussões
+                                   são acirradas e os conflitos também são
+                                   intensos
+                                34 É uma descoberta a cada dia
+                                35 É uma escola cujo aprendizado serve pra vida
+                                   toda
+                                36 É uma experiência muito rica, de constante
+                                   aprendizado
+                                37 É uma experiência nova para mim
+                                   Foi o partido com mais organização e qual eu
+                                   mais me identifiquei ideologicamente Prete
+                                38 è uma experiência que mudou meu jeito de ver
+                                   a política
+                                39 É uma experiência que todo jovem deveria
+                                   ter, pois muda o nosso olhar sobre a
+                                   política e os partidos
+                                40 É uma experiência que traz alegrias e
+                                   sofrimentos também, pois lidar com política
+                                   sempre implica enfrentar conflitos, o
+                                41 É uma forma de alimentar meus ideiais por
+                                   uma sociedade mais justa e igualitária
+                                42 ecelente
+                                43 edificante
+                                44 Encontrar outras mulheres com os mesmos
+                                   ideias políticos e poder compartilhar nossos
+                                   sonhos para transformar a política
+                                45 Encontrar um partido que realmente defenda
+                                   os direitos das mulheres foi uma experiência
+                                   de como fazer política pode real
+
+Variable                     Value Label
+═══════════════════════════════════════════════════════════════════════════════
+                                46 Enfrentar um crise de perseguição como tem
+                                   sido nos últimos anos, com acusações
+                                   seguidas ao partido e nossas principais
+                                47 espetacular
+                                48 excelente
+                                49 Experiencia muito positiva
+                                50 Fia amigos de verdade e pra toda a vida no
+                                   partido
+                                51 Formamos uma comunidade, com os mesmos
+                                   ideais e os mesmos valores políticos
+                                52 fundamental
+                                53 Gosto muito da convivência com os colegas de
+                                   partido, o espírito forte de coleguismo
+                                54 Gosto muito do contato amigável com meus
+                                   companheiros de partido Além de um
+                                   aprendizado é uma experiência de vida
+                                55 Hoje considero que consegui uma formação
+                                   política sólida graças à experiência no
+                                   partido
+                                56 Hoje sou um cidadão mais consciente graças
+                                   ao partido
+                                57 importante
+                                58 incrível
+                                59 Já fui discriminado em um partido porque
+                                   cobrei mais coerência ideológica Tive que
+                                   procurar outro partido, mais coerente
+                                60 Já tive problemas e desentendimentos com os
+                                   companheiros de partido, mas hoje entendo
+                                   que a divergência faz parte da pol
+                                61 Já troquei de partido três vezes Tive
+                                   desilusões e decepções, mas sigo em frente,
+                                   lutando por meus ideais
+                                62 maravilhosa
+                                63 Minha experiência mostra como o jogo
+                                   político sob o comando das elites aumenta a
+                                   opressão da classe operária
+                                64 muito boa
+                                65 Muito boa
+                                66 muito edificante
+                                67 muito especial
+                                68 muito importante
+                                69 Muito importante para meu crescimento como
+                                   cidadão
+                                70 muito instrutiva
+                                71 Muito interessante e construtiva
+                                72 muito legal!
+                                73 muito marcante
+                                74 muito positiva
+                                75 muito relevante
+                                76 Nas propostas do partido eu vi refletido meu
+                                   ideal de justiça social e de igualdade
+                                77 No partido eu aprendi que é possível a
+                                   realidade aos poucos, começando conosco
+                                78 O convívio com os colegas de partido é uma
+                                   escola de vida e de política
+                                79 O espírito de brodagem é muito bacana!
+                                80 O melhor de tudo é poder compartilhar meus
+                                   ideais com os jovens companheiros de partido
+                                81 O partido é como uma comunidade democrática,
+                                   ondo todos têm voz e direito de participação
+                                82 O partido é como uma irmandade onde todos se
+                                   ajudam, se apoiam e crescem juntos no
+                                   aprendizado político
+
+Variable                     Value Label
+═══════════════════════════════════════════════════════════════════════════════
+                                83 O partido é uma escola de valores políticos
+                                   e democráticos
+                                84 O partido me deu esperanças de que é
+                                   possível lutar pel transformação do Brasil
+                                85 O projeto de esquerda vai ser retomado, após
+                                   essa fase crítica em que puseram o PT no
+                                   purgatório, com apoio da mídia e d
+                                86 O PT vai superar esta fase de perseguição
+                                   política e de "caça às bruxas" e vai voltar
+                                   a ser um partido forte e digno Par
+                                87 O que aprendi no partido valeu mais do que
+                                   um curso de pós-graduação
+                                88 O que eu aprendi me mostrou que a política
+                                   não é o jogo sujo mostrado pela mídia
+                                89 O que mais gosto é o acolhimento dos
+                                   companheiros de partido
+                                90 ok
+                                91 Os acusadores jamais encontrarão provas e
+                                   essas acusações injustas e vazias ficarão
+                                   desmoralizadas O tempo vai mostrar q
+                                92 Os companheiros de partido me acolheram de
+                                   braços abertos e se tornaram minha segunda
+                                   família
+                                93 Os embates internos às vezes são duros, mas
+                                   eu tento tentar proveito até das
+                                   divergências e das disputas internas, em te
+                                94 Para mim tem sido uma experiência de
+                                   aprendizado sobre o que realmente é política
+                                95 Passei a ver a política de forma diferente,
+                                   muito longe daquilo que é mostrado pela
+                                   mídia
+                                96 positiva
+                                97 sensacional
+                                98 Ser filiado a um partido de esquerda
+                                   alimenta meus ideias de uma sociedade mais
+                                   democrática e mais justa
+                                99 Ser filiado a um partido de esquerda me fez
+                                   abrir os olhos para o jogo de poder que faz
+                                   as elites se manterem sempre no
+                               100 Sinto-me em casa quando estou com meus
+                                   companheiros de partido
+                               101 só vivendo para sentir como é legal
+                               102 Sou muito grato a tudo o que aprendi no
+                                   partido
+                               103 supimpa
+                               104 Tive a felicidade de conhecer os princípios
+                                   humanistas da política, através do PHS
+                               105 Tive de mudar de partido por divergências
+                                   ideológicas, mas fui bem acolhido no meu
+                                   novo partido
+                               106 Um aprendizado diário de vivência fraterna e
+                                   democrática
+                               107 Um aprendizado incrível
+                               108 Um aprendizado político na prática e para a
+                                   vida
+                               109 Um convívio fraterno e democrático
+                               110 um divisor de águas na minha vida
+                               111 um grande diferencial na minha vida
+                               112 Um legado que vou levar pra toda vida
+                               113 um super diferencial na minha formação como
+                                   cidadão
+                               114 Uma experiência de aprendizagem continuada e
+                                   renovada
+                               115 uma experiência incrível
+
+Variable                     Value Label
+═══════════════════════════════════════════════════════════════════════════════
+                               116 Uma experiência muito positiva
+                               117 Uma experiência muito rica
+                               118 Uma experiência para a vida
+                               119 Uma lição de vida
+idade                            1 16 a 17 anos
+                                 2 18 a 24 anos
+                                 3 25 a 29 anos
+renda_familiar_mensal         1[a] SR
+                                 2 Acima de 10 mil reais
+                                 3 Até 2 mil reais
+                                 4 De 2 a 5 mil reais
+                                 5 De 5 a 7 mil reais
+                                 6 De 7 a 10 mil reais
+escolaridade                     1 Fundamental
+                                 2 Médio
+                                 3 Pós-graduação
+                                 4 Superior graduação
+                                 5 Superior tecnólogo
+                                 6 Técnico
+area_formacao                 1[a] SR
+                                 2 Ciências Biológicas ou Ciências da Saúde
+                                 3 Ciências Exatas e da Terra ou Ciências
+                                   Agrárias
+                                 4 Ciências Humanas ou Ciências Sociais
+                                   Aplicadas
+                                 5 Engenharias
+                                 6 Linguística, Letras e Artes
+religiao                      1[a] SR
+                                 2 Católica Apostólica Romana
+                                 3 Espírita
+                                 4 Evangélicas
+                                 5 Outras religiosidades
+                                 6 Sem religião
+                                 7 Umbanda e Candomblé
+situacao_ocupacional             1 Desempregado
+                                 2 Empregado com carteira assinada
+                                 3 Emprego informal
+                                 4 Estudante
+setor_ocupacao                1[a] SR
+                                 2 Autônomo
+                                 3 ONGs
+                                 4 Privado
+                                 5 Público
+cor_raca                         1 Amarela (pessoa de origem japonesa, chinesa,
+                                   coreana, etc)
+                                 2 Branca (pessoa que se identifica como
+                                   branca)
+                                 3 Indígena (pessoa que se identifica como
+                                   índia ou indígena)
+                                 4 Parda (pessoa que se identifica como parda,
+                                   mulata, cabocla, cafuza, mameluca ou mestiça
+                                   de preto com pessoa de outra co
+                                 5 Preta (pessoa que se identifica como preta)
+local_residencia                 1 Capital
+                                 2 Cidade do interior
+                                 3 Povoado/área rural
+                                 4 Região metropolitana (não capital)
+regiao_residencia                1 Centro Oeste
+                                 2 Nordeste
+                                 3 Norte
+                                 4 Sudeste
+                                 5 Sul
+partido                       1[a] SR
+                                 2 DEM
+
+Variable                     Value Label
+═══════════════════════════════════════════════════════════════════════════════
+                                 3 NOVO
+                                 4 PCB
+                                 5 PCdoB
+                                 6 PCO
+                                 7 PDT
+                                 8 PEN
+                                 9 PHS
+                                10 PMB
+                                11 PMDB
+                                12 PMN
+                                13 PP
+                                14 PPL
+                                15 PPS
+                                16 PR
+                                17 PRB
+                                18 PROS
+                                19 PRP
+                                20 PRTB
+                                21 PSB
+                                22 PSC
+                                23 PSD
+                                24 PSDB
+                                25 PSDC
+                                26 PSL
+                                27 PSOL
+                                28 PSTU
+                                29 PT
+                                30 PTB
+                                31 PTC
+                                32 Avante (PTdoB)
+                                33 PTN
+                                34 PV
+                                35 REDE
+                                36 SD
+espectro                        10 Extrema Esquerda
+                                15 Esquerda-Extrema Esquerda
+                                20 Esquerda
+                                25 Centro Esquerda-Esquerda
+                                30 Centro Esquerda
+                                35 Centro-Centro Esquerda
+                                40 Centro
+                                45 Centro-Centro Direita
+                                50 Centro Direita
+                                55 Centro Direita-Direita
+                                60 Direita
+                                65 Direita-Extrema Direita
+                                70 Extrema Direita
+agenda                           1 materialista
+                                 2 pós
+filiacao_familiar                0 sem influencia
+                                 1 com influencia
+filiacao_estudantil              0 sem influência
+                                 1 com influência
+filiacao_social                  0 sem influência
+                                 1 com influência
+interior                         0 não reside
+                                 1 reside
+metropolitana                    0 não reside
+                                 1 reside
+capital                          0 não reside
+                                 1 reside
+influencia_filiacao              1 familiares
+                                 2 movimentos estudantis
+                                 3 movimentos sociais
+
+Variable                     Value Label
+═══════════════════════════════════════════════════════════════════════════════
+espectro_binario              0[a] nenhum
+                                 1 Esquerda
+                                 2 Direita
+sexo                             1 Feminino
+                                 2 Masculino
+a. User-missing value
