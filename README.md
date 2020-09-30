@@ -6,10 +6,10 @@ O objetivo desta base de dados é fornecer informações sobre o recrutamento de
 
 Resulta da pesquisa sobre as motivações de jovens para a filiação partidária, bem como do levantamento da autopercepção desses jovens sobre as legendas às quais são filiados, tendo como eixo de análise as seguintes questões: 
 
-a. o que motiva um jovem a se filiar a um partido político no atual contexto brasileiro? 
-b. como se dá a filiação? 
-c. que fatores mais contribuem para a adesão dos jovens às agremiações partidárias? 
-d. quais são as percepções dos jovens sobre esse processo? 
+1. o que motiva um jovem a se filiar a um partido político no atual contexto brasileiro? 
+2. como se dá a filiação? 
+3. que fatores mais contribuem para a adesão dos jovens às agremiações partidárias? 
+4. quais são as percepções dos jovens sobre esse processo? 
 
 ## Lista de arquivos
 
