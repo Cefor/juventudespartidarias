@@ -13,16 +13,14 @@ d. quais são as percepções dos jovens sobre esse processo?
 
 ## Lista de arquivos
 
-Lista de arquivos:
+| **Arquivo** | **Descrição** |
 | --- | --- |
 | dados.sav | Base de dados no formato SPSS |
 | dados.ods | Base de dados no formato LibreOffice |
 | dados.xlsx | Base de dados no formato Excel |
 | dados.csv | Base de dados no formato CSV (texto puro com campos separados por vírgula) |
 | dicionario.txt | Dicionário de dados |
-| --- | --- |
-
 
 ## Publicação 
 
-Este estudo foi publicado na Revista Brasileira de Ciência Política, sob o título  [Juventudes partidárias no Brasil: motivações e perspectivas dos jovens filiados a partidos políticos](https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0103-33522019000300113&lng=en&nrm=iso&tlng=pt)
+Este estudo foi publicado na Revista Brasileira de Ciência Política, sob o título  [Juventudes partidárias no Brasil: motivações e perspectivas dos jovens filiados a partidos políticos](https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0103-33522019000300113&lng=en&nrm=iso&tlng=pt).
